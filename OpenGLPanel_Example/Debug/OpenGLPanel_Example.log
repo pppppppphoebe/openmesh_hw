@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (OpenGLPanel_Example.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  MyForm.cpp
+C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\OpenGLPanel_Example\MyForm.cpp(7,1): warning C4829: 函式 main 的參數可能不正確。請考慮 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\OpenGLPanel_Example\MyForm.cpp : warning C4793: 'OpenMesh::ArrayKernel::`vcall'{8}'': 函式會編譯成機器碼:
+  	非 clrcall 的 vcall Thunk 必須編譯為原生
+  LoadShaders.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+OpenMeshToolsd.lib(Gnuplot.obj) : warning LNK4099: 找不到 PDB 'OpenMeshTools.pdb' (有 'OpenMeshToolsd.lib(Gnuplot.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshTools.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshToolsd.lib(Timer.obj) : warning LNK4099: 找不到 PDB 'OpenMeshTools.pdb' (有 'OpenMeshToolsd.lib(Timer.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshTools.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshToolsd.lib(ViewingParameters.obj) : warning LNK4099: 找不到 PDB 'OpenMeshTools.pdb' (有 'OpenMeshToolsd.lib(ViewingParameters.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshTools.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(BinaryHelper.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(BinaryHelper.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(IOManager.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(IOManager.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(OMFormat.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(OMFormat.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(BaseReader.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(BaseReader.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(OBJReader.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(OBJReader.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(OFFReader.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(OFFReader.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(OMReader.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(OMReader.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(PLYReader.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(PLYReader.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(STLReader.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(STLReader.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(BaseWriter.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(BaseWriter.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(OBJWriter.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(OBJWriter.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(OFFWriter.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(OFFWriter.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(OMWriter.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(OMWriter.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(PLYWriter.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(PLYWriter.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(STLWriter.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(STLWriter.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(VTKWriter.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(VTKWriter.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(ArrayKernel.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(ArrayKernel.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(PolyConnectivity.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(PolyConnectivity.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(omstream.obj) : warning LNK4099: 找不到 PDB '' (有 'OpenMeshCored.lib(omstream.obj)' 或位於 '')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(BaseProperty.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(BaseProperty.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+OpenMeshCored.lib(Endian.obj) : warning LNK4099: 找不到 PDB 'OpenMeshCore.pdb' (有 'OpenMeshCored.lib(Endian.obj)' 或位於 'C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\OpenMeshCore.pdb')，當做沒有偵錯資訊，連結物件
+  OpenGLPanel_Example.vcxproj -> C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\Debug\test1.exe

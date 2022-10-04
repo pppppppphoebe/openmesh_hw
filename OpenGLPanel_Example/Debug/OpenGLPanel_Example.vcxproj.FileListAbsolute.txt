@@ -1,0 +1,7 @@
+C:\Users\PC18\Documents\openmesh-study\OpenMesh\OpenGLPanel_Example_2D\OpenGLPanel_Example\Debug\OpenGLPanel_Example.MyForm.resources
+C:\Users\PC18\Documents\openmesh-study\OpenMesh\OpenGLPanel_Example_2D\OpenGLPanel_Example\Debug\OpenGLPanel_Example.vcxproj.GenerateResource.cache
+C:\Users\PC18\Documents\openmesh-study\OpenMesh\OpenGLPanel_Example_2D\OpenGLPanel_Example\Debug\OpenGLPanel_Example.vcxproj.CopyComplete
+C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\OpenGLPanel_Example\Debug\OpenGLPanel_Example.MyForm.resources
+C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\OpenGLPanel_Example\Debug\OpenGLPanel_Example.vcxproj.GenerateResource.cache
+C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\OpenGLPanel_Example\Debug\OpenGLPanel_Example.vcxproj.CopyComplete
+C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\OpenGLPanel_Example\Debug\OpenGLPanel_Example.vcxproj.AssemblyReference.cache

@@ -1,0 +1,5 @@
+﻿  LoadShaders.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\yvals.h(58,1): fatal error C1189: #error:  _ITERATOR_DEBUG_LEVEL > 1 is not supported in release mode.
+  MyForm.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\yvals.h(58,1): fatal error C1189: #error:  _ITERATOR_DEBUG_LEVEL > 1 is not supported in release mode.
+  正在產生程式碼...

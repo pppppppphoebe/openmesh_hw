@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中繼目錄 (x64\Debug\) 包含從其他專案 (OpenGLPanel_Example.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2203,5): warning MSB3270: 所建置之專案的處理器架構 "AMD64" 與參考 "HKOGLPanel" 的處理器架構 "x86" 不相符。這可能會導致執行階段失敗。請考慮透過組態管理員變更專案的目標處理器架構，使專案與參考之間的處理器架構相對應，或者使用符合專案目標處理器架構之處理器架構的參考相依性。
+  LoadShaders.cpp
+C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\OpenGLPanel_Example\LoadShaders.cpp(41,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.cpp
+C:\Users\PC18\Documents\openmesh-study\OpenMesh\test1\OpenGLPanel_Example\MyForm.cpp(7,1): warning C4829: 函式 main 的參數可能不正確。請考慮 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  正在產生程式碼...
+  LoadShaders.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+LINK : fatal error LNK1561: 必須定義進入點
